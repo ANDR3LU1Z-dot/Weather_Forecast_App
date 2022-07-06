@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather Forecast App</string>
+
+    <string name="search_places">Buscar Lugares</string>
+    <string name="demo_data">9 Janeiro, 2:41 pm</string>
+    <string name="default_numbers">100</string>
+    <string name="pressure">Pressão</string>
+    <string name="max_temp">Temperatura Max.</string>
+    <string name="min_temp">Temperatura Min.</string>
+    <string name="humidity">Umidade</string>
+    <string name="wind_speed">Velocidade do Vento</string>
+    <string name="temperature_in_f">Temperatura em F</string>
+    <string name="day">Dia 17</string>
+    <string name="night">9 Noite</string>
+    <string name="feels_like">Sensação Térmica 16*</string>
+    <string name="weather_type">Chuvisco</string>
+    <string name="sunrise">Nasces do Sol</string>
+    <string name="sunset">Por do Sol</string>
+    <string name="main_temp">16*</string>
+
+
+</resources>
