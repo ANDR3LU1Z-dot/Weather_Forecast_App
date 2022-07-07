@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/drawable/ic_clouds.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_drizzle.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_pressure.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_sun.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_sunny.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_sunrise.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_sunset.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_temperature.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_thunderstorm.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_umidade.xml" value="0.187" />
+        <entry key="app/src/main/res/drawable/ic_wind_speed.xml" value="0.187" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
   </component>
